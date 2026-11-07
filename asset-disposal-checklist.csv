@@ -1,0 +1,9 @@
+asset_tag,type,location,condition,data_bearing,status,disposal_method,wipe_method,approved_by,notes
+SMP-LTP-001,Laptop,Sample Office A,"Working, end of life",yes,pending-wipe,recycle,,A. Sample,Replace battery before handover
+SMP-DSK-002,Desktop,Sample Office B,"Working, replaced",yes,approved,donate,secure-erase,A. Sample,Wipe verified 2026-11-01
+SMP-HDD-003,External HDD,Sample Store Room,Not powering on,yes,pending-wipe,destroy,,A. Sample,"Dead drive — destroy, do not wipe"
+SMP-MON-004,Monitor,Sample Office A,"Working, end of life",no,approved,recycle,n/a,A. Sample,No storage inside
+SMP-PHN-005,Phone,Sample Office C,Cracked screen,yes,assessed,recycle,,A. Sample,Remove account lock before wipe
+SMP-PRN-006,Printer,Sample Office B,Broken beyond repair,no,identified,recycle,n/a,,Check for internal storage first
+SMP-SSD-007,SSD,Sample Store Room,"Working, retired",yes,wiped,resell,manufacturer secure-erase,A. Sample,"Wipe verified, ready for resale"
+SMP-USB-008,USB stick,Sample Office A,Working,yes,disposed,destroy,shredded,A. Sample,Destruction certificate filed
